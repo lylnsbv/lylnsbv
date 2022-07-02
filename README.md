@@ -7,7 +7,7 @@
 - 💬 Ask me about 🐍Python, 🎨Designing, 🌱Plant, 🐟Fish, 💻Computers😅
 
 ## Status 😉:
-<div align="center">
+<div style="display:inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=lylnsbv&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Leyla's github stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lylnsbv&layout=compact&theme=radical&hide_border=true" />
 </div>
