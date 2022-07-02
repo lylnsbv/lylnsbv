@@ -25,20 +25,20 @@
   <img src="https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java"/>  
 </div>
 
-<!--
+
 ## Recent projects 😇:
 <div align="center">
  <a href="https://github.com/lylnsbv/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=pro1&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=restaurant_website&theme=radical" />
  </a>
   <a href="https://github.com/lylnsbv/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=pro2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=Calculator&theme=radical" />
  </a>
- <a href="https://github.com/lylnsbv/">
+ <!--<a href="https://github.com/lylnsbv/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=pro3&theme=radical" /> 
- </a>
+ </a>-->
 </div>
--->
+
 
 ## Follow Me ☺️:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/leylanasibova/)
