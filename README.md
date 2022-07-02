@@ -28,10 +28,10 @@
 
 ## Recent projects 😇:
 <div align="center">
- <a href="https://github.com/lylnsbv/Calculator">
+ <a href="https://github.com/lylnsbv/restaurant_website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=restaurant_website&theme=radical" />
  </a>
-  <a href="https://github.com/lylnsbv/restaurant_website">
+  <a href="https://github.com/lylnsbv/Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=Calculator&theme=radical" />
  </a>
  <!--<a href="https://github.com/lylnsbv/">
