@@ -33,6 +33,9 @@
 
 ## Recent projects 😇:
 <div align="center">
+  <a href="https://github.com/lylnsbv/news_blog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=news_blog&theme=radical" />
+  </a>
   <a href="https://github.com/lylnsbv/restaurant_website">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=restaurant_website&theme=radical" />
   </a>
