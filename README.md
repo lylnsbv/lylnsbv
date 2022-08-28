@@ -45,9 +45,6 @@
   <a href="https://github.com/lylnsbv/chatapp_php">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=chatapp_php&theme=radical" /> 
   </a>
-  <a href="https://github.com/lylnsbv/stepik_python_basics_and_applications">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lylnsbv&repo=stepik_python_basics_and_applications&theme=radical" /> 
-  </a>
 </div>
 
 
